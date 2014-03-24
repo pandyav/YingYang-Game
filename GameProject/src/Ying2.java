@@ -13,8 +13,7 @@ import java.awt.geom.Rectangle2D;
 
 /**
 Ying Yang Game. 
-We worked in pairs
-Vaibhav Pandya, Justin Babel
+
 
  *
  */

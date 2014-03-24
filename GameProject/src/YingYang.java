@@ -8,8 +8,7 @@ import java.awt.event.MouseEvent;
 import java.awt.geom.*;
 import java.util.Random;
 //Ying Yang Game. 
-//We worked in pairs
-//Vaibhav Pandya, Justin Babel
+
 
 class YingYang extends JPanel implements ActionListener, MouseListener,
 		MouseMotionListener {

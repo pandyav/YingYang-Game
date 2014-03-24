@@ -3,8 +3,7 @@ import javax.swing.JApplet;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 //Ying Yang Game. 
-//We worked in pairs
-//Vaibhav Pandya, Justin Babel
+
 
 public class YingDemo extends JApplet {
 	
