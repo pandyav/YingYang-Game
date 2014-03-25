@@ -14,3 +14,4 @@ Fun user-interacted Java 2D game with the creation of a custom shape-Ying Yang a
 -Will start spinning after a minute for difficulty
 
 **Please see the ScreenShot.jpg for UI
+**For convenience, use yingi.jar as an executable file
